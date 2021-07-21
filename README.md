@@ -177,4 +177,4 @@ license text.
 
 Author: [Nafi Mahmud][author]
 
-[author]: https://sourcebd.github.io/nafi.com/
+[author]: https://sourcecodebd.github.io/nafi.com/
